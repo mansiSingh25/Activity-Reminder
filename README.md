@@ -7,24 +7,24 @@ A simple Python script that sends desktop notifications reminding you to take sh
 
 ✨ Features
 
-🕒 Sends timely desktop notifications to remind you to take breaks.
+Sends timely desktop notifications to remind you to take breaks.
 
-⚙️ Customizable time interval between reminders.
+Customizable time interval between reminders.
 
-💻 Lightweight and runs quietly in the background.
+Lightweight and runs quietly in the background.
 
-🌐 Works across major operating systems (Windows, macOS, Linux).
+Works across major operating systems (Windows, macOS, Linux).
 
 
 
 
 🚀 Future Enhancements
 
-🖥️ Add a GUI to set reminder time dynamically.
+ Add a GUI to set reminder time dynamically.
 
-📊 Log user activity and break frequency.
+Log user activity and break frequency.
 
-🔔 Add sound or motivational messages.
+Add sound or motivational messages.
 
 
 👩‍💻 Author
