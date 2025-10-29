@@ -3,6 +3,8 @@
 A simple Python script that sends desktop notifications reminding you to take short activity or rest breaks — helping reduce screen fatigue and improve focus.
 
 
+
+
 ✨ Features
 
 🕒 Sends timely desktop notifications to remind you to take breaks.
@@ -12,6 +14,8 @@ A simple Python script that sends desktop notifications reminding you to take sh
 💻 Lightweight and runs quietly in the background.
 
 🌐 Works across major operating systems (Windows, macOS, Linux).
+
+
 
 
 🚀 Future Enhancements
